@@ -1,0 +1,17 @@
+[res]
+万国选区.tsproj
+[lib]
+[file]
+AWZ.lua
+ZZBase64.lua
+yzm.lua
+UIs.lua
+ui.lua
+tsp.lua
+token.lua
+task-internationnal.lua
+task.lua
+function.lua
+change_qu.lua
+api.lua
+main.lua
